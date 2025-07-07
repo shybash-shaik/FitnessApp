@@ -65,4 +65,5 @@ Logs a food entry with quantity and meal type for a specific day.
 
 Fetches total calories, macros, water logs, and weight logs for the selected date.
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/d0a5b5b7-e8de-4e1c-936a-cb9fe4e3291d)
+![Dashboard Screenshot](![Screenshot 2025-07-07 130922](https://github.com/user-attachments/assets/c71facac-ceb2-4379-9a20-2248fb75d661)
+)
