@@ -1,0 +1,8 @@
+name,weight,calories,protein,carbs,fat,isVeg
+Paneer,100,265,18,6,20,true
+Chicken Breast,100,165,31,0,3.6,false
+Boiled Egg,50,78,6,0.6,5.3,false
+Brown Rice,100,111,2.6,23,0.9,true
+Tofu,100,76,8,1.9,4.8,true
+Apple,150,95,0.5,25,0.3,true
+Milk (low fat),100,42,3.4,5,1,true
