@@ -6,5 +6,4 @@ const WaterLogSchema = new mongoose.Schema({
   log_date: { type: Date, required: true }
 }, { timestamps: true });
 
-const WaterLog = mongoose.model('WaterLog', WaterLogSchema);
-export default WaterLog;
+export default mongoose.model('WaterLog', WaterLogSchema);

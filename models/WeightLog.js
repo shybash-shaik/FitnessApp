@@ -6,5 +6,4 @@ const WeightLogSchema = new mongoose.Schema({
   log_date: { type: Date, required: true }
 }, { timestamps: true });
 
-const WeightLog = mongoose.model('WeightLog', WeightLogSchema);
-export default WeightLog;
+export default mongoose.model('WeightLog', WeightLogSchema);
